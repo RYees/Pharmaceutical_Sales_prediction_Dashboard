@@ -5,7 +5,11 @@ from pages import Pharmaceutical_Sales
 # import numpy as np
 # import plotly.express as px
 
+<<<<<<< HEAD
 st.header("Analysis for Pharmaceutical Sales Prediction")
+=======
+st.header("Analysis for Telecommunication Industry")
+>>>>>>> e676ed32bf8fba127a4c758bfe7f8d7209dd9674
 
 # st.write(df)
 
